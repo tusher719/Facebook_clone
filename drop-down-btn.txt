@@ -1,0 +1,174 @@
+<li class="nav">
+									<div class="icon outer-shadow hover-in-shadow drop-btn">
+										<i class="fas fa-caret-down"></i>
+									</div>
+									<div class="wrapper">
+										<ul class="menu-bar">
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-home"></i>
+													</div>
+													Home
+												</a>
+											</li>
+											<li class="setting-item">
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-cog"></i>
+													</div>
+													Settings & Privacy <i class="open fas fa-angle-right"></i>
+												</a>
+											</li>
+											<li class="help-item">
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-question-circle"></i>
+													</div>
+													Help & Support <i class="open fas fa-angle-right"></i>
+												</a>
+											</li>
+											<li class="display-item">
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-moon"></i>
+													</div>
+													Display & Accessibility <i class="open fas fa-angle-right"></i>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-comment-alt"></i>
+													</div>
+													Give Feedback
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-door-open"></i>
+													</div>
+													log Out
+												</a>
+											</li>
+										</ul>
+
+
+										<!-- Setting & Privace Menu-Item -->
+										<ul class="setting-drop">
+											<li class="arrow back-setting-btn"><i class="close fas fa-arrow-left"></i>Setting & Privace</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-cog"></i>
+													</div>
+													Settings
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-lock"></i>
+													</div>
+													Privace Checkup
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-lock"></i>
+													</div>
+													Privace Center
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-address-book"></i>
+													</div>
+													Activity log
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-newspaper"></i>
+													</div>
+													News Feed preferences
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-globe-asia"></i>
+													</div>
+													Language
+												</a>
+											</li>
+										</ul>
+
+
+
+										<!-- Help & Support Menu-Item -->
+										<ul class="help-drop">
+											<li class="arrow back-help-btn"><i class="close fas fa-arrow-left"></i>Help & Support</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-question-circle"></i>
+													</div>
+													Help Center
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-envelope"></i>
+													</div>
+													Support Inbox
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-bug"></i>
+													</div>
+													Report a Probelm
+												</a>
+											</li>
+										</ul>
+
+
+
+
+										<!-- Display & Accessibility Menu-Item -->
+										<ul class="display-drop">
+											<li class="arrow back-display-btn"><i class="close fas fa-arrow-left"></i>Display & Accessibility</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-question-circle"></i>
+													</div>
+													Help Center
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-envelope"></i>
+													</div>
+													Support Inbox
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<div class="icon">
+														<i class="fas fa-bug"></i>
+													</div>
+													Report a Probelm
+												</a>
+											</li>
+										</ul>
+									</div>
+								</li>
